@@ -1,8 +1,9 @@
 MERN E-commerce Store
-Description
+
+Description:
 A full-stack e-commerce platform built using the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to browse products, manage a shopping cart, create orders, and features admin controls for product and order management.
 
-Features
+Features:
 User registration & authentication (JWT-based)
 
 Product listing, details, and review system
@@ -21,7 +22,7 @@ Responsive, modern UI with Tailwind CSS and Radix UI
 
 Admin panel for product/order control
 
-Technologies Used
+Technologies Used:
 Frontend: React, Redux Toolkit, React Router DOM, Axios, Tailwind CSS, Lucide React, Radix UI
 
 Backend: Node.js, Express.js, MongoDB, Cloudinary, Paypal SDK
@@ -67,7 +68,7 @@ CLOUDINARY_URL=your_cloudinary_url
 PAYPAL_CLIENT_ID=your_paypal_client_id
 See your .gitignore to ensure secrets aren't pushed.
 
-Usage
+Usage:
 Visit localhost:5173 for frontend after running npm run dev in /client.
 
 Register/login, browse products, add them to cart, and checkout.
