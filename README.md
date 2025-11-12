@@ -1,6 +1,8 @@
 MERN E-commerce Store
 
 Description:
+
+
 A full-stack e-commerce platform built using the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to browse products, manage a shopping cart, create orders, and features admin controls for product and order management.
 
 Features:
