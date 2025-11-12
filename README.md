@@ -1,42 +1,33 @@
 # MERN E-commerce Store
 
-Description:
+<h2>Description</h2>
+
+<p>A full-stack e-commerce platform built using the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to browse products, manage a shopping cart, create orders, and features admin controls for product and order management.</p>
 
 
-A full-stack e-commerce platform built using the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to browse products, manage a shopping cart, create orders, and features admin controls for product and order management.
-
-
-Features:
-
-User registration & authentication (JWT-based)
-
-Product listing, details, and review system
-
-Shopping cart functionality
-
-Order placement and management
-
-Paypal payment integration
-
-Image management using Cloudinary
-
-State management with Redux Toolkit
-
-Responsive, modern UI with Tailwind CSS and Radix UI
-
-Admin panel for product/order control
+<h2>Features</h2>
+<ul>
+  <li>User registration & authentication (JWT-based)</li>
+  <li>Product listing, details, and review system</li>
+  <li>Shopping cart functionality</li>
+  <li>Order placement and management</li>
+  <li>Paypal payment integration</li>
+  <li>Image management using Cloudinary</li>
+  <li>State management with Redux Toolkit</li>
+  <li>Responsive, modern UI with Tailwind CSS and Radix UI</li>
+  <li>Admin panel for product/order control</li>
+</ul>
 
 
 
-Technologies Used:
+<h2>Technologies Used</h2>
+<b>Frontend:</b> React, Redux Toolkit, React Router DOM, Axios, Tailwind CSS, Lucide React, Radix UI
 
-Frontend: React, Redux Toolkit, React Router DOM, Axios, Tailwind CSS, Lucide React, Radix UI
+<b>Backend:</b> Node.js, Express.js, MongoDB, Cloudinary, Paypal SDK
 
-Backend: Node.js, Express.js, MongoDB, Cloudinary, Paypal SDK
+<b>Build Tools:</b> Vite, PostCSS, ESLint
 
-Build Tools: Vite, PostCSS, ESLint
-
-Other: JWT, dotenv, ESLint, Prettier
+<b>Other:</b> JWT, dotenv, ESLint, Prettier
 
 
 
